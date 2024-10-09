@@ -1,8 +1,4 @@
-function skillMembers(){
-    return [
-        {name: "John", skill: "Python"},
-        {name: "Jane", skill: "JavaScript"},
-        {name: "Bob", skill: "C++"},
-        {name: "Alice", skill: "Java"}
-    ];
+function skillMember(){
+    let skills = ["HTML", "CSS", "JavaScript", "React", "Node.js",
+        "MongoDB", "Express", "SQL", "Python", "Git"];
 }
